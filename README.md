@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on artificial intelligence with Python and LangChain. I also scrape the web.<br>👯 I’m looking to collaborate on using LangChain and Vector Embeddings use cases<br>🌱 Currently, I'm studying ReactJS, Kubernetes, ElasticSearch, and Pinecone.<br>💬 Ask me about Python (LangChain Framework, Any scraping frameworks,  Backend Frameworks)<br>⚡ Fun fact about me, I enjoy photography, acoustic fingerstyle guitar, and occasional piano.
+🔭 I’m currently working on artificial intelligence with Python. I also scrape the web.<br>👯 I’m looking to collaborate on using LLM and Vector DBs to have more effecient LLM use cases<br>🌱 Currently, I'm studying RAG (Retrieval-Augmented Generation) architecture, Kubernetes, Apache Airflow, and Milvus.<br>💬 Ask me about Python (LangChain Framework, Any scraping frameworks,  Backend Frameworks)<br>⚡ Fun fact about me, I enjoy photography, acoustic fingerstyle guitar, and occasional piano.
 
 
 ## 🌐 Socials:
