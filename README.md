@@ -204,14 +204,14 @@ const markAnthonyVale = {
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=markavale&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=22d3ee&icon_color=a855f7&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-chi-indol-76.vercel.app/api?username=markavale&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=22d3ee&icon_color=a855f7&text_color=c9d1d9" alt="GitHub Stats"/>
   <img width="49%" src="https://streak-stats.demolab.com/?user=markavale&theme=react&hide_border=true&background=0D1117&ring=22d3ee&fire=a855f7&currStreakLabel=22d3ee" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markavale&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=22d3ee&text_color=c9d1d9" alt="Top Languages"/>
+  <img width="40%" src="https://github-readme-stats-chi-indol-76.vercel.app/api/top-langs/?username=markavale&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=22d3ee&text_color=c9d1d9" alt="Top Languages"/>
 
 </div>
 
