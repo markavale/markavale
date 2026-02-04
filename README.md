@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 <div align="center">
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:a855f7,100:22d3ee&height=200&section=header&text=Mark%20Anthony%20Vale&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Lead%20Data%20%26%20AI%20Engineer%20%7C%20RAG%20Systems%20%26%20LLM%20Orchestration&descSize=18&descAlignY=55)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:a855f7,100:22d3ee&height=200&section=header&text=Mark%20Anthony%20Vale&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Lead%20Data%20and%20AI%20Engineer&descSize=18&descAlignY=55)
 
   <!-- Typing SVG -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%A7%A0+Building+Intelligent+Systems;%F0%9F%9A%80+Leading+Engineering+Teams;%F0%9F%94%A5+Processing+50M%2B+Data+Points+Daily;%E2%9A%A1+Problem-Solving+First%2C+Coding+Second)](https://git.io/typing-svg)
