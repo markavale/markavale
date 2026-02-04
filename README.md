@@ -229,14 +229,6 @@ const markAnthonyVale = {
 
 <div align="center">
 
-<a href="https://github.com/markavale">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=markavale&repo=E-Barangay-v.1.1&theme=react&hide_border=true&bg_color=0D1117&title_color=22d3ee&icon_color=a855f7" />
-</a>
-
-</div>
-
-<div align="center">
-
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🤖 **Pace** | Personal AI Assistant (Second Brain using PARA method) | LangChain, LangGraph, Crew AI, FastAPI |
